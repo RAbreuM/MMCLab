@@ -1,0 +1,8 @@
+"internal_id","qualtrics_site","qualtrics_participant","qualtrics_datefirsttest","qualtrics_countryname","qualtrics_userlanguage","qualtrics_language","calc_duplicateflag","calc_numeracycomplete","qualtrics_gendern","calc_agegiven","calc_ageams","calc_agediff","calc_yeardiff","internal_needstobechecked","calc_agegroupgiven","calc_agegroupams","task_demographics","task_given","task_highestcount","file_ams","task_ams","task_vm","qualtrics_notes"
+"MMCLab_MMCCT013","MMCLab","MMCCT013","07-10-2026","Ireland","EN","English",0,3,"female",4.871,4.083,0.788,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",""
+"MMCLab_MMCCT014","MMCLab","MMCCT014","07-10-2026","Ireland","EN","English",0,3,"male",3.929,4.167,0.238,1,1,"agegroup2","agegroup2","1","1","1","1","48","1",""
+"MMCLab_MMCCT015","MMCLab","MMCCT015","07-11-2026","Ireland","EN","English",0,3,"male",4.748,4,0.748,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",""
+"MMCLab_MMCCT020","MMCLab","MMCCT020","07-11-2026","Ireland","EN","English",0,2,"female",5.356,NA,NA,NA,NA,"agegroup2",NA,"1","1","1",NA,NA,NA,""
+"MMCLab_MMCCT021","MMCLab","MMCCT021","07-11-2026","Ireland","EN","English",0,2,"male",5.025,NA,NA,NA,NA,"agegroup2",NA,"1","1","1",NA,NA,NA,""
+"MMCLab_MMCCT022","MMCLab","MMCCT022","07-11-2026","Ireland","EN","English",0,2,"female",5.268,NA,NA,NA,NA,"agegroup2",NA,"1","1","1",NA,NA,NA,""
+"MMCLab_MMCCT023","MMCLab","MMCCT023","07-11-2026","Ireland","EN","English",0,3,"male",4.989,4.25,0.739,0,0,"agegroup2","agegroup2","1","1","1","1","48","1",""
